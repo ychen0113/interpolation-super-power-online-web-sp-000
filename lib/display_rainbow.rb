@@ -9,4 +9,4 @@ def display_rainbow(colors)
   print "V: #{colors[6]}\n"
 end
 
-colors = Array.new["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+var colors = Array.new["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
