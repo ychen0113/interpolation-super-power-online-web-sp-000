@@ -5,5 +5,4 @@ def display_rainbow (colors)
   if (a<=7)
     puts colors[a]
     a++
-  end
 end
