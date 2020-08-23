@@ -1,4 +1,6 @@
 # Write your #display_rainbow method here
+colors = Array.new["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+
 def display_rainbow(colors)
   print "R: #{colors[0]}, "
   print "O: #{colors[1]}, "
@@ -9,4 +11,3 @@ def display_rainbow(colors)
   print "V: #{colors[6]}\n"
 end
 
-colors = Array.new["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
