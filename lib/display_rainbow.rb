@@ -7,4 +7,4 @@ def display_rainbow (colors)
   }
 end
 
-colors = array.new[7, "R: red", "O: orange", "Y: yellow", "G: green", "B: blue", "I: indigo", "V: violet"]
+colors = array.new[ "R: red", "O: orange", "Y: yellow", "G: green", "B: blue", "I: indigo", "V: violet"]
